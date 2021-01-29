@@ -10,7 +10,7 @@
 
 Regression 과 classification 에서 쓰이는 standard 딥러닝 기술은 모델의 불확실성을 나타내지 않는다. Classification 에서는, 소프트맥스 아웃풋(파이프라인 마지막단계)의 예측 확률 값이 종종 모델의 confidence 라고 잘못 해석되어 진다. 모델이 소프트맥스의 높은 아웃풋을 가질지라도 불확실할 수 있기도 하다. 그림 1 을 보자.
 
-![](/Users/ahjeong_park/Study/Uncertainty-in-Deep-Learning/논문/img/dropout_f1.png)
+![](./img/dropout_f1.png)
 
 왼쪽 (소프트맥스 인풋), 오른쪽(소프트맥스 아웃풋), x* (트레이닝 데이터로 부터 멀리 떨어진데이터)
 

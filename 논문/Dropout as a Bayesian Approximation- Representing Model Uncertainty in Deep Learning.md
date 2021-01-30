@@ -182,7 +182,7 @@ Lenet에 대해서 rotation 한 1 이미지에 대한 softmax 의 input과 outpu
 
 [Dropout as a Bayesian Approximation : Representing Model Uncertainty in Deep Learning - Yarin Gal, Zoubin Ghahramani](https://arxiv.org/abs/1506.02142)
 
-
+[Appendix](https://arxiv.org/pdf/1506.02157.pdf)
 
 
 
